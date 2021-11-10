@@ -1,0 +1,15 @@
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Data\bin\Debug\net5.0\TMS.Data.deps.json
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Data\bin\Debug\net5.0\TMS.Data.dll
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Data\bin\Debug\net5.0\ref\TMS.Data.dll
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Data\bin\Debug\net5.0\TMS.Data.pdb
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Data\obj\Debug\net5.0\TMS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Data\obj\Debug\net5.0\TMS.Data.AssemblyInfoInputs.cache
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Data\obj\Debug\net5.0\TMS.Data.AssemblyInfo.cs
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Data\obj\Debug\net5.0\TMS.Data.csproj.CoreCompileInputs.cache
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Data\obj\Debug\net5.0\TMS.Data.dll
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Data\obj\Debug\net5.0\ref\TMS.Data.dll
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Data\obj\Debug\net5.0\TMS.Data.pdb
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Data\bin\Debug\net5.0\TMS.Data.runtimeconfig.json
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Data\bin\Debug\net5.0\TMS.Data.runtimeconfig.dev.json
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Data\obj\Debug\net5.0\TMS.Data.genruntimeconfig.cache
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Data\obj\Debug\net5.0\TMS.Data.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Domain\obj\Debug\net5.0\TMS.Domain.csproj.AssemblyReference.cache
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Domain\obj\Debug\net5.0\TMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Domain\obj\Debug\net5.0\TMS.Domain.AssemblyInfoInputs.cache
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Domain\obj\Debug\net5.0\TMS.Domain.AssemblyInfo.cs
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Domain\obj\Debug\net5.0\TMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Domain\bin\Debug\net5.0\TMS.Domain.deps.json
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Domain\bin\Debug\net5.0\TMS.Domain.dll
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Domain\bin\Debug\net5.0\ref\TMS.Domain.dll
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Domain\bin\Debug\net5.0\TMS.Domain.pdb
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Domain\bin\Debug\net5.0\TMS.Data.dll
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Domain\bin\Debug\net5.0\TMS.Data.pdb
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Domain\obj\Debug\net5.0\TMS.Domain.dll
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Domain\obj\Debug\net5.0\ref\TMS.Domain.dll
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Domain\obj\Debug\net5.0\TMS.Domain.pdb
+C:\Users\Вавушко\Documents\programing\TaskManagementSystemIloy\NEW\TMS.Domain\obj\Debug\net5.0\TMS.Domain.csproj.CopyComplete
